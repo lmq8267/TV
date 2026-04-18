@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-18 19:11:37,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2026-04-19 07:04:32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -837,6 +837,7 @@ CETV4,rtsp://115.85.232.19/PLTV/88888910/224/3221225594/100001000000000600000000
 余姚姚江文化,https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8zzhed
 云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
+义乌新闻综合,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
 中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
@@ -921,8 +922,8 @@ CETV4,rtsp://115.85.232.19/PLTV/88888910/224/3221225594/100001000000000600000000
 动漫秀场,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001196/index.m3u8?
 动漫秀场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8
 动漫秀场,http://tv.scjyhd.com:4022/udp/239.10.0.101:5140
-动漫秀场,http://139.196.151.191:2051/rtp/239.45.3.134:5140
 动漫秀场,http://139.196.214.238/rtp/239.45.3.134:5140
+动漫秀场,http://139.196.151.191:2051/rtp/239.45.3.134:5140
 动漫秀场,rtsp://115.153.245.70/PLTV/88888888/224/3221225613/iptv7997.smil
 哈哈炫动,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010117
 哈哈炫动,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225657/2.m3u8
@@ -1256,8 +1257,6 @@ CETV4,rtsp://115.85.232.19/PLTV/88888910/224/3221225594/100001000000000600000000
 剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
 南充公共,http://tv.scjyhd.com:4022/udp/239.10.0.69:5140
 南充科教,http://tv.scjyhd.com:4022/udp/239.10.0.70:5140
-叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
-叙州新闻综合,http://2061827161.cloudvdn.com/a.m3u8?domain=pili-live-hls.ybcxjd.com&player=IjsAAN-1KyqjjPYX&secondToken=secondToken%3AMHl3QtaAs-H2KkHpuGUAlKuJ9a8&streamid=jdh-live%3Ajdh-live%2F2108111201035597&v3=1
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
 叙永综合,http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8?zsicd#rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
 名山综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
@@ -1328,8 +1327,8 @@ CETV4,rtsp://115.85.232.19/PLTV/88888910/224/3221225594/100001000000000600000000
 长宁综合,rtmp://cnpull.sccnfb.com/live/123456
 雅安公共,http://tv.scjyhd.com:4022/udp/239.10.0.79:5140
 雅安新闻综合,http://tv.scjyhd.com:4022/udp/239.10.0.78:5140
-雅安新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 雅安新闻综合,https://play.yunxya.com/channellive/xinwen.m3u8
+雅安新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 雅安雨城,https://m3u8channel-yc.yunxya.com/nmip-media/channellive/channel100103/playlist.m3u8
 青川综合,http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 青神综合,http://lmt.scqstv.com/live1/live1.m3u8?zsicd?
@@ -1527,6 +1526,7 @@ CETV4,rtsp://115.85.232.19/PLTV/88888910/224/3221225594/100001000000000600000000
 甘肃都市,rtsp://60.13.23.179/PLTV/88888910/224/3221225492/10000100000000060000000000102577_0.smil
 甘肃都市,rtsp://60.13.39.18/PLTV/88888910/224/3221225484/10000100000000060000000000102561_0.smil
 甘肃都市,rtsp://221.7.61.147/PLTV/88888910/224/3221225492/10000100000000060000000000102577_0.smil
+临洮综合,https://play.kankanlive.com/live/1638428318510977.m3u8?zgand
 嘉峪关综合,rtsp://180.95.143.19/PLTV/88888910/224/3221225607/10000100000000060000000000789667_0.smil
 嘉峪关综合,rtsp://116.176.26.18/PLTV/88888910/224/3221225607/10000100000000060000000000789667_0.smil
 嘉峪关综合,rtsp://60.13.39.19/PLTV/88888910/224/3221225607/10000100000000060000000000789667_0.smil
@@ -1534,9 +1534,20 @@ CETV4,rtsp://115.85.232.19/PLTV/88888910/224/3221225594/100001000000000600000000
 嘉峪关综合,rtsp://221.7.61.147/PLTV/88888910/224/3221225607/10000100000000060000000000789667_0.smil
 嘉峪关综合,rtsp://116.176.26.19/PLTV/88888910/224/3221225607/10000100000000060000000000789667_0.smil
 嘉峪关综合,rtsp://60.13.39.18/PLTV/88888910/224/3221225607/10000100000000060000000000789667_0.smil
+天水新闻综合,https://play.kankanlive.com/live/1698724188723989.m3u8
+天祝综合,https://play.kankanlive.com/live/1656487214793905.m3u8
+定西公共,https://play.kankanlive.com/live/1645680054929933.m3u8?zgand
+定西综合,https://play.kankanlive.com/live/1645679947087932.m3u8?zgand
+岷县综合,https://play.kankanlive.com/live/1722561653629309.m3u8
 平凉新闻综合,rtmp://play.kankanlive.com/live/1694661314645984
+张掖新闻综合,https://play.kankanlive.com/live/1720583434627241.m3u8
+成县综合,https://play.kankanlive.com/live/1702454377323961.m3u8
+景泰综合,https://play.kankanlive.com/live/1624439143745981.m3u8?zgand
+武威新闻,https://play.kankanlive.com/live/1693539781636986.m3u8
+永昌综合,https://play.kankanlive.com/live/1652755738635915.m3u8
 永昌综合,rtmp://play.kankanlive.com/live/1652755738635915
 渭源新闻,rtmp://play.kankanlive.com/live/1701943385631927
+甘南综合,https://play.kankanlive.com/live/1711955176432990.m3u8
 甘南藏语,rtsp://116.176.26.18/PLTV/88888910/224/3221225827/374456774.smil
 甘南藏语,rtsp://180.95.143.19/PLTV/88888910/224/3221225827/374456774.smil
 甘南藏语,rtsp://60.13.39.19/PLTV/88888910/224/3221225827/374456774.smil
@@ -1556,8 +1567,18 @@ CETV4,rtsp://115.85.232.19/PLTV/88888910/224/3221225594/100001000000000600000000
 甘肃少儿,rtsp://60.13.23.179/PLTV/88888910/224/3221225494/10000100000000060000000000102582_0.smil
 甘肃少儿,rtsp://221.7.61.147/PLTV/88888910/224/3221225494/10000100000000060000000000102582_0.smil
 甘肃少儿,rtsp://60.13.39.18/PLTV/88888910/224/3221225485/10000100000000060000000000102562_0.smil
+白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
+礼县综合,https://play.kankanlive.com/live/1621416463200961.m3u8
+秦安综合,https://play.kankanlive.com/live/1659926941626981.m3u8
 秦安综合,rtmp://play.kankanlive.com/live/1680577080200944
+西和综合,https://play.kankanlive.com/live/1626051451895935.m3u8?zgand
+西峰综合,https://play.kankanlive.com/live/1683944827526991.m3u8
+通渭综合,https://play.kankanlive.com/live/1629944062210970.m3u8?zgand
 酒泉综合,https://3ee63cd9178a070a2db29f77915c49d4.livehwc3.cn/play.kankanlive.com/live/1702033926169975.m3u8
+金川综合,https://play.kankanlive.com/live/1625041962958919.m3u8?zgand
+陇西综合,https://play.kankanlive.com/live/1702426649052972.m3u8
+靖远综合,https://play.kankanlive.com/live/1692005762394912.m3u8
+静宁综合,https://play.kankanlive.com/live/1722996149311198.m3u8
 
 ☘️新疆频道,#genre#
 哈密一套,https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv
@@ -2215,8 +2236,8 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 动漫秀场,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001196/index.m3u8?
 动漫秀场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8
 动漫秀场,http://tv.scjyhd.com:4022/udp/239.10.0.101:5140
-动漫秀场,http://139.196.151.191:2051/rtp/239.45.3.134:5140
 动漫秀场,http://139.196.214.238/rtp/239.45.3.134:5140
+动漫秀场,http://139.196.151.191:2051/rtp/239.45.3.134:5140
 动漫秀场,rtsp://115.153.245.70/PLTV/88888888/224/3221225613/iptv7997.smil
 新动漫,http://tv.scjyhd.com:4022/udp/239.10.0.159:5140
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
@@ -2367,6 +2388,7 @@ CCTV-15,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 鹿鼎记,http://live.iill.top/yy.php?id=1382704650
 鹿鼎记,http://cdn.jdshipin.com:8880/huya.php?id=23865080
 仙剑奇侠传,http://live.iill.top/yy.php?id=1382749903
+西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
 三国演义,https://live.iill.top/huya/11602081
 三国演义,http://live.iill.top/yy.php?id=1354936241
 三国演义,http://live.metshop.top/huya/11602081
